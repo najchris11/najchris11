@@ -27,7 +27,6 @@
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/christiancoulibaly"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:najchris11@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Optionally, you could add some fancy dynamic badges or more stats. e.g. Wakatime stats if you have them, or a recent blog post feed. -->
