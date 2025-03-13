@@ -4,29 +4,45 @@
   <img src="https://komarev.com/ghpvc/?username=najchris11&label=Profile%20views&color=0e75b6&style=flat" alt="najchris11" />
 </p>
 
-<!-- Intro / About Me -->
-- 🔭 I’m currently working on **JTBBooks** and other Next.js projects.
-- 🌱 I’m learning **TypeScript, Cloud Deployments**, and **AI/ML** integrations.
-- 👯 I’m looking to collaborate on **Open Source Projects** in React, Next.js, or DevOps tooling.
-- 💬 Ask me about **web development, TypeScript, or customizing Material-UI**.
-- ⚡ Fun fact: I love a good keyboard build and customizing networks!
+## 💫 About Me:
+- 🔭 I’m currently working on leetcode, a time management app, and my personal portfolio.
+- 👯 I’m looking to collaborate on a Markdown based Next.js CMS.
+- 🌱 I’m currently learning web dev using the t3 stack, but I’m looking into branching into mobile!
+- 💬 Ask me about a Spotify data tool im ideating about!
+- ⚡ Fun fact, I’ve built 15 keyboards, and I'm currently using a Zoom75 SE with Gateron Banana switches.
+
+### 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=najchris11&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=najchris11&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najchris11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=najchris11&theme=tokyonight&hide_border=false" /><br/>
+</p>
 
 ### 💻 Top Languages
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najchris11&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najchris11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
 
 ### 🔗 Connect with Me
 <p align="center">
+  <a href="https://instagram.com/najchris11"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/christiancoulibaly"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tiktok.com/@naj-dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
+  <a href="https://youtube.com/@naj-dev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
 </p>
 
-<!-- Optionally, you could add some fancy dynamic badges or more stats. e.g. Wakatime stats if you have them, or a recent blog post feed. -->
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=najchris11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+</p>
