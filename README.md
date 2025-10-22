@@ -7,8 +7,8 @@
 ## 💫 About Me:
 - 🔭 I’m currently working on leetcode, a time management app, and my personal portfolio.
 - 👯 I’m looking to collaborate on a Markdown based Next.js CMS.
-- 🌱 I’m currently learning web dev using the t3 stack, but I’m looking into branching into mobile!
-- 💬 Ask me about a Spotify data tool im ideating about!
+- 🌱 I’m currently learning web dev using the t3 stack, and mobile dev in jetpack compose!
+- 💬 Ask me about a Spotify/Last.fm data tool im ideating about!
 - ⚡ Fun fact, I’ve built 15 keyboards, and I'm currently using a Zoom75 SE with Akko Lavender Purple Pro switches.
 
 ### 💻 Tech Stack:
