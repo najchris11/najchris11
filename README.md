@@ -1,48 +1,72 @@
-<h1 align="center">Hi there, I'm Naj! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najchris11&label=Profile%20views&color=0e75b6&style=flat" alt="najchris11" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=najchris11&label=profile+views&color=39FF14&style=flat" alt="profile views" />
 
-## 💫 About Me:
-- 🔭 I’m currently working on leetcode, a time management app, and my personal portfolio.
-- 👯 I’m looking to collaborate on a Markdown based Next.js CMS.
-- 🌱 I’m currently learning web dev using the t3 stack, and mobile dev in jetpack compose!
-- 💬 Ask me about a Spotify/Last.fm data tool im ideating about!
-- ⚡ Fun fact, I’ve built 15 keyboards, and I'm currently using a Zoom75 SE with Akko Lavender Purple Pro switches.
+<br/>
 
-### 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<a href="https://naj-dev.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;Christian+%22Naj%22+Coulibaly;%24+cat+role.txt;Junior+Software+Engineer+%40+JPMorgan+Chase;%24+echo+%24LOCATION;Columbus%2C+OH" alt="Typing SVG" />
+</a>
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najchris11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=najchris11&theme=tokyonight&hide_border=false" /><br/>
-</p>
+<br/>
 
-### 💻 Top Languages
+```bash
+naj@dev:~$ cat about.md
+```
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najchris11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
+- 🏦 Junior Software Engineer at **JPMorgan Chase & Co.**
+- 🔭 Currently building **SnapVault** (Snapchat memory archiver) and my portfolio at **[naj-dev.com](https://naj-dev.com)**
+- 👯 Looking to collaborate on a cross-platform music sharing and recommendation tool
+- 🌱 Learning Jetpack Compose for mobile dev
+- ⚡ Fun fact: I've built 15 mechanical keyboards — currently running a Zoom75 SE with Akko Lavender Purple Pro switches
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/najchris11"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/christiancoulibaly"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tiktok.com/@naj-dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
-  <a href="https://youtube.com/@naj-dev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-</p>
+```bash
+naj@dev:~$ ls -la projects/
+```
 
+| project | what it does |
+|---|---|
+| **[SnapVault](https://snapvault.naj-dev.com)** | Snapchat memory downloader ([Kotlin app](https://github.com/najchris11/snapchat-memories-downloader) + [web front end](https://github.com/najchris11/snapvault-web)) |
+| **[ScarletQuest](https://github.com/najchris11/ScarletQuest)** | Hybrid Android + Unity app for exploring campus, built with a small team |
+| **[jtbbooks](https://jtbbooks.vercel.app)** | Site for the Jump The Broom Books project |
+| **[beetjuice](https://github.com/najchris11/beetjuice)** | React/Express UI for managing a beets music library — 🚧 early development, not ready for general use |
+| **[canvasdl](https://github.com/najchris11/canvasdl)** | Chrome extension to archive Canvas LMS course data before losing access |
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najchris11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+```bash
+naj@dev:~$ cat stack.txt
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,java,ts,kotlin,swift,nextjs,tailwind,react,cpp&theme=dark" alt="tech stack" />
+</div>
+
+```bash
+naj@dev:~$ ./stats.sh --fun
+```
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=najchris11&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najchris11&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" alt="top languages" width="48%" />
+</div>
+
+<sub align="center">
+
+these two run on a shared free host and occasionally 503 under load — if the images look broken, refresh in a bit.
+
+</sub>
+
+```bash
+naj@dev:~$ cat contact.txt
+```
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-najthedev-black?style=flat-square&logo=Instagram&logoColor=white&labelColor=black)](https://instagram.com/najthedev)
+[![LinkedIn](https://img.shields.io/badge/-christiancoulibaly-black?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/christiancoulibaly)
+[![TikTok](https://img.shields.io/badge/-naj__dev-black?style=flat-square&logo=TikTok&logoColor=white&labelColor=black)](https://tiktok.com/@naj_dev)
+[![YouTube](https://img.shields.io/badge/-naj--dev-black?style=flat-square&logo=YouTube&logoColor=white&labelColor=black)](https://youtube.com/@naj-dev)
+[![Website](https://img.shields.io/badge/-naj--dev.com-black?style=flat-square&logo=vercel&logoColor=white&labelColor=black)](https://naj-dev.com)
+
+</div>
